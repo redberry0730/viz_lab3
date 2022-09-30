@@ -1,0 +1,15 @@
+h2 {
+    font-weight: bold;
+}
+
+.container{
+    max-width: 95%;
+    padding-left: 30px;
+    padding-right: 40px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.top{
+    margin-top:100px;
+}
